@@ -1,16 +1,15 @@
-# bmi_app
+# Introduction
 
-A new Flutter project.
+This is a simple BMI tracker app which I developed specifically for my Flutter workshop students. It is by no means perfect and the code structure may need some tweaking to make it follow the clean code principles fully.
 
-## Getting Started
+## Features included in the app
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clean UI
+2. Proper app folder structures
+3. Persistent database (HIVE) and CRUD manipulation (unfortunately update data was not included in this app)
+4. State management using riverpod (provider)
+5. Navigations
+6. Use of alert dialogs
+7. Use of model classes and implementing certain methods for the class object
+8. Use of ListView.builder to build a lazy list
+9. Modifying the theme style at MaterialApp (top parent) level to ensure consistent appearance throughout the app by default
