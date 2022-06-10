@@ -1,6 +1,6 @@
 # Introduction
 
-This is a simple BMI tracker app which I developed specifically for my Flutter workshop students. It is by no means perfect and the code structure may need some tweaking to make it follow the clean code principles fully.
+This is a simple BMI tracker app which I developed specifically for my Flutter workshop students. It is by no means perfect and the code structure may need some tweaking to make them follow the clean code principles fully.
 
 ## Features included in the app
 
